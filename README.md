@@ -2,7 +2,7 @@
 
 I am a Data Analyst with strong 10+ years marketing background in a Consumer Behaviour Analyst & Strategist roles and experience in creating data-driven strategic solutions for local and international brands. I am passionate about discovering genuine consumer needs behind numbers and statistics and leveraging data-proven insights to help businesses grow effectively.
 
-👩‍💻 Due to my marketing strategies experience, I understand business needs and decompose them to clear goals, extract insights from raw data and create stories based on them, recommend data-informed solutions for brands to improve products on each funnel step, manage and unite different teams and know how to speak their language.    
+👩‍💻 Due to my marketing strategist experience, I understand business needs and decompose them to clear goals, extract insights from raw data and create stories based on them, recommend data-informed solutions for brands to improve products on each funnel step, manage and unite different teams and know how to speak their language.    
 
 👩🏻‍🎓 To enrich my knowledge and abilities, I took my skills to the next level by acquiring proficiency in SQL and Python programming. I completed an intensive 18-month Data Analyst Professional Training Course by @Yandex. During education, I went deep into exploratory data analysis, building dashboards in Tableau, business analytics and unit economics, statistical data analysis and fundamentals of machine learning.
 
